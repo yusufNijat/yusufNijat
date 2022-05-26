@@ -1,5 +1,4 @@
 
-- Welcome, I am Yusuf Nijat, Learner, Software developer, Multilingual.
 - I tend to learn new Technologies and Languages.
 
   <----------------------------------------------------------------------->
